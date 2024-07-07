@@ -15,4 +15,6 @@ func main() {
 	fmt.Println("third, World!")
 	fmt.Println("fourth, World!")
 
+	fmt.Println(add(1, 2))
+	fmt.Println(diff(1, 2))
 }
