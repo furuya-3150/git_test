@@ -5,6 +5,10 @@ func add(a, b int) int {
 	return a + b
 }
 
+func add2(a, b int) int {
+	return a + b
+}
+
 func diff (a, b int) int {
 	return a - b
 }
