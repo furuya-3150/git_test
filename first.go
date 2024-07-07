@@ -21,4 +21,5 @@ func main() {
 	fmt.Println(add(2, 4))
 	fmt.Println(diff(3, 5))
 	fmt.Println(diff(4, 5))
+	fmt.Println(diff(5, 5))
 }
