@@ -13,6 +13,10 @@ func diff (a, b int) int {
 	return a - b
 }
 
+func diff2 (a, b int) int {
+	return a - b + 2
+}
+
 func main() {
 	fmt.Println("Hello, World!")
 	fmt.Println("Second, World!")
