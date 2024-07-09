@@ -36,4 +36,9 @@ func main() {
 	fmt.Println(diff(5, 5))
 	fmt.Println(add2(5, 5))
 	fmt.Println(diff2(5, 5))
+	fmt.Println(add2(1, 2))
+	fmt.Println(add2(1, 2))
+	fmt.Println(diff(1, 2))
+	fmt.Println(add2(1, 2))
+	fmt.Println(add2(3, 2))
 }
