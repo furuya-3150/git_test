@@ -9,4 +9,5 @@ func main() {
 	secondAdd(1, 2)
 	secondAdd(1, 2)
 	secondAdd(1, 2)
+	secondAdd(1, 2)
 }
